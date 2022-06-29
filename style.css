@@ -462,6 +462,7 @@ nav .caret {
 
 button {
     outline: none!important;
+    color: #000!important; 
 }
 
 .btn-rd {
@@ -651,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #303030!important;
+  
 }
 
 .container {
@@ -688,6 +689,7 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    color: #333333!important;
 }
 
 .cta-hero {
@@ -707,13 +709,14 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: #333333!important;
 }
 
 h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    
 }
 
 .med-width-whitespace {
@@ -771,7 +774,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F9AD8A;
+    background-color: #9C3607;
 }
 
 .tc-white {
@@ -779,12 +782,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F9AD8A;
+    background: #9C3607;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #9C3607!important;
     color: #FFFFFF!important;
 }
 
@@ -797,11 +800,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #9C3607!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #9C3607!important;
 }
 
 .icon-dark-slate-blue {
