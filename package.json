@@ -1,0 +1,23 @@
+{
+  "name": "optimisez_un_site_web_existant_bill_elodie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prefix": "postcss ./style.css --use autoprefixer -d ./css/prefixed/",
+    "prefix": "postcss ./css/bootstrap.css --use autoprefixer -d ./css/prefixed/",
+    "prefix": "postcss ./css/et-line.css --use autoprefixer -d ./css/prefixed/",
+    "prefix": "postcss ./css/font-awesome.css --use autoprefixer -d ./css/prefixed/" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elodie-BILL/Optimisez_un_site_web_existant_bill_elodie.git"
+  },
+  "author": "Elodie b.",
+  "license": "ISC",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/Elodie-BILL/Optimisez_un_site_web_existant_bill_elodie/issues"
+  },
+  "homepage": "https://github.com/Elodie-BILL/Optimisez_un_site_web_existant_bill_elodie#readme"
+}
